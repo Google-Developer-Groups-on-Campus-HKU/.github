@@ -1,13 +1,13 @@
 # Google Developer Groups - Campus HKU 🎉
 
 <img 
-    src="images/GDG-HKU-Banner-Large.png" 
+    src="../images/GDG-HKU-Banner-Large.png" 
     alt="GDG HKU Banner" 
     style="max-width: 100%; height: auto;"
     srcset="
-        images/GDG-HKU-Banner-Small.png 640w,
-        images/GDG-HKU-Banner-Medium.png 1440w,
-        images/GDG-HKU-Banner-Large.png 2560w"
+        ../images/GDG-HKU-Banner-Small.png 640w,
+        ../images/GDG-HKU-Banner-Medium.png 1440w,
+        ../images/GDG-HKU-Banner-Large.png 2560w"
     sizes="(max-width: 640px) 640px,
            (max-width: 1440px) 1440px,
            2560px"
